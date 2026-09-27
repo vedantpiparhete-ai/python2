@@ -1,0 +1,6 @@
+f=open('Text File3.txt','a')
+name=input('Enter friend  name: ')
+f.write(name)
+f.write('\n')
+print(f'{name} added to file ')
+f.close()

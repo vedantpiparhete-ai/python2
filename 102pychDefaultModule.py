@@ -1,0 +1,6 @@
+print("Hello I am Vedant")
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+div = a / b
+print("Division:", div)
+print("Bye See U tomorrow")
