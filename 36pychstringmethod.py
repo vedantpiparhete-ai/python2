@@ -1,0 +1,17 @@
+a='My name is Vedant'
+print(a)
+a=a.upper()
+print(a)
+a=a.lower()
+print(a)
+a=a.title()
+print(a)
+a=a.capitalize()
+print(a)
+a=a.swapcase()
+print(a)
+b='Python Programing'
+x=b.find('th')
+print(x)
+x=b.rfind('P')
+print(x)

@@ -1,0 +1,14 @@
+l1=[]
+print(type(l1))
+l2=[10,'Hello',True,10.1,10+3j]
+print(l2)
+l1.append(10)
+l1.append(20)
+l1.append(30)
+print(l1)
+print(l1[0])
+print(l2[2])
+l3=[l1,l2]
+print(l3)
+print(l3[0])
+print(l3[0][0])
